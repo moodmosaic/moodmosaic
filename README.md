@@ -36,12 +36,6 @@
     </li>
     <li>
       <span>
-        <a href="https://blog.nikosbaxevanis.com/2016/02/08/write-you-some-quickcheck/">Write you some
-        QuickCheck</a></span>, a minimal version of QuickCheck v1 ported
-        in F#.
-    </li>
-    <li>
-      <span>
         <a href="https://github.com/moodmosaic/Fare">Fare</a></span>,
       allows you to generate random text that is guaranteed to match a regular
       expression passed in.
@@ -52,16 +46,6 @@
         DFA/NFA (finite-state automata) implementation and
         <a href="https://code.google.com/archive/p/xeger/">xeger</a>.
       </i>
-    </li>
-    <li>
-      <span>
-        <a href="https://twitter.com/ploeh/status/194879114937761793">One of
-      the oldest contributors</a></span> to
-      <a href="https://github.com/AutoFixture/">AutoFixture</a>, a testing
-      system that helps you write more compact, maintainable, unit tests.
-      <br>
-      AutoFixture integrates with xUnit.net, NUnit, Moq, NSubstitute, FakeItEasy, and
-      other .NET testing tools.
     </li>
   </ul>
 
