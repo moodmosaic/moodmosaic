@@ -1,7 +1,6 @@
 <div>
   <h3>Hi there, I'm moodmosaic 👋</h3>
-  <p>I'm doing open source work in Haskell, F#, and have industry expertise in CPQ, automated trading, and software testing.</p>
-
+  
   <h3>Open source</h3>
   <ul>
     <li>
