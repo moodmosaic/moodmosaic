@@ -1,5 +1,5 @@
 <div>  
-  <h3>Selected repos</h3>
+  <h3>Notable work</h3>
   <ul>
     <li>
       Haskell language support for Atom, powered by ghcide and the
