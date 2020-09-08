@@ -1,5 +1,7 @@
-<div>  
-  <h3>GitHub - quick view</h3>
+<div>
+  <p>Welcome to my github! Here's a summary of what's in there:</p>
+  
+  <h3>Open source</h3>
   <ul>
     <li>
       Haskell language support for Atom, powered by ghcide and the
@@ -47,7 +49,7 @@
     </li>
   </ul>
 
-  <h3>Blog - quick view</h3>
+  <h3>Selected articles</h3>
   <ul>
     <li><a href="https://blog.nikosbaxevanis.com/2020/03/30/the-rhyme-of-the-altered-parser/">
       The rhyme of the altered Parser
