@@ -1,5 +1,5 @@
 <div>
-  <p>Welcome! Here's a summary of what's in there:</p>
+  <p>:eyes: Welcome! Here's a summary of what's in there:
   
   <h3>Open source</h3>
   <ul>
