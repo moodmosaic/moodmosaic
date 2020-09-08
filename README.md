@@ -1,7 +1,5 @@
-<div>
-  <h3>Hi there, I'm moodmosaic 👋</h3>
-  
-  <h3>Open source</h3>
+<div>  
+  <h3>Selected repos</h3>
   <ul>
     <li>
       Haskell language support for Atom, powered by ghcide and the
