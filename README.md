@@ -47,7 +47,7 @@
     </li>
   </ul>
 
-  <h3>Selected articles</h3>
+  <h3>Selected posts from my blog</h3>
   <ul>
     <li><a href="https://blog.nikosbaxevanis.com/2020/03/30/the-rhyme-of-the-altered-parser/">
       The rhyme of the altered Parser
