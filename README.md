@@ -1,5 +1,5 @@
 <div>
-  <p>Welcome to my github! Here's a summary of what's in there:</p>
+  <p>Welcome! Here's a summary of what's in there:</p>
   
   <h3>Open source</h3>
   <ul>
