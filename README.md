@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+Thanks for visiting. I hope you were able to use these contributions to help solve a problem. Good information is invaluable and can save hours of frustration. If the code was helpful, please star it or drop a comment. Thanks!
+
+[![Linkedin: nikosbaxevanis](https://img.shields.io/badge/-nikosbaxevanis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikosbaxevanis/)](https://www.linkedin.com/in/nikosbaxevanis/)
+==========
+
 <!--
-**felixonmars/felixonmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**moodmosaic/moodmosaic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
