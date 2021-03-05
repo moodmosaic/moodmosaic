@@ -1,10 +1,6 @@
-![](https://raw.githubusercontent.com/moodmosaic/nikosbaxevanis.com/gh-pages/images/home.png)
-
-[![](https://img.shields.io/badge/-nikosbaxevanis-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikosbaxevanis/)](https://www.linkedin.com/in/nikosbaxevanis/)
-==========
+### Hi there 👋
 
 <!--
-### Hi there 👋
 
 **moodmosaic/moodmosaic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
